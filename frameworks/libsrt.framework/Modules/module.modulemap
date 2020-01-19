@@ -1,0 +1,6 @@
+framework module libsrt {
+  umbrella header "libsrt.h"
+
+  export *
+  module * { export * }
+}
