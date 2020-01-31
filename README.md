@@ -6,10 +6,10 @@
 
 ## Requirements
 
-- libsrt 1.4.0
+- libsrt 1.4.1
 - openssl 1.1.1d
 - iOS 12.0+
-- Xcode 11.2.1+
+- Xcode 11.3.1+
 
 ## Installation
 
